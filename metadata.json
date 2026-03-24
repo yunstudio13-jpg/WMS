@@ -1,0 +1,5 @@
+{
+  "name": "非双货主-拣货任务",
+  "description": "A professional warehouse management interface for rule-based picking task generation and confirmation.",
+  "requestFramePermissions": []
+}
